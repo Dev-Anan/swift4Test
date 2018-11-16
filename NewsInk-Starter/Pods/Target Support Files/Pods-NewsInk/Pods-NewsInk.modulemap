@@ -1,0 +1,6 @@
+framework module Pods_NewsInk {
+  umbrella header "Pods-NewsInk-umbrella.h"
+
+  export *
+  module * { export * }
+}

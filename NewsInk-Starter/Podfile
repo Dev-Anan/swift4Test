@@ -1,0 +1,10 @@
+platform :ios, '10.0'
+inhibit_all_warnings!
+
+target 'NewsInk' do
+  use_frameworks!
+
+  pod 'MaterialComponents'
+  pod "SDWebImage"
+
+end
